@@ -646,7 +646,7 @@ phone:
 
 # Email
 email:
-  Weight: 99
+  Weight: -1
   Template: mailto:%v
   Title: Email
   Icon:
