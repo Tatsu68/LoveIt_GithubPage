@@ -1,6 +1,6 @@
 # 001: GitHub
 github:
-  Weight: 1
+  Weight: 1111
   Prefix: https://github.com/
   Title: GitHub
   Icon:
@@ -20,7 +20,8 @@ x:
   Prefix: https://x.com/
   Title: X
   Icon:
-    Class: fab fa-x-twitter fa-fw
+    Simpleicons: x
+    #Class: fab fa-x-twitter fa-fw
 
 twitter:
   Alias: x
@@ -224,6 +225,14 @@ spotify:
   Title: Spotify
   Icon:
     Class: fab fa-spotify fa-fw
+
+# 028.1: Apple Music
+applemusic:
+  Weight: 28.1
+  Prefix: https://music.apple.com/artist/
+  Title: Apple Music
+  Icon:
+    Simpleicons: applemusic
 
 # 029: Bandcamp
 bandcamp:
@@ -487,6 +496,13 @@ matrix:
   Icon:
     Simpleicons: matrix
 
+# 061.9: niconico
+niconico:
+  Weight: 61.9
+  Prefix: https://www.nicovideo.jp/user/
+  Title: niconico
+  Icon:
+    Simpleicons: niconico
 # 062: bilibili
 bilibili:
   Weight: 62
